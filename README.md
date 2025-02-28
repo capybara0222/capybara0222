@@ -52,5 +52,4 @@ aling="center" />
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=capybara0222&theme=discord&no-frame=false&no-bg=false&margin-w=20&margin-h=20&column=3">
-  <img src="./metrics.plugin.achievements.compact.svg">
 </div>
