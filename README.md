@@ -1,9 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header" />
 
-<h1 align="center" style="margin-bottom: 30px;">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Solana Developer;Let's Build on Solana!&font=Fira%20Code&center=true&width=440&height=45&color=blueviolet&vCenter=true&size=30">
-</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Solana+Developer)
+![Profile Views](https://komarev.com/ghpvc/?username=capybara0222)
 
 <img
   src="https://komarev.com/ghpvc/?username=capybara0222&color=brightgreen&label=PROFILE%20VIEWS&abbreviated=true&color=blueviolet&style=plastic"
