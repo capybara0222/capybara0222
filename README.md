@@ -40,9 +40,17 @@ aling="center" />
 
 ### 📞 Connect with me:
 
-  <img src="./assets/linkedin.svg" alt="linkedin" width="30px" /> Stanislav Kuhar
-  <img src="./assets/whatsapp.svg" alt="whatsapp" width="30px" /> +380 660841904
-  <img src="./assets/telegram.png" alt="telegram" width="30px" /> @Stasik729
+  <a href="https://www.linkedin.com/in/stanislav-kuhar-8bb413352">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="30px" /> Stanislav Kuhar
+</a>
+
+<a href="https://t.me/Stasik729">
+  <img src="./assets/telegram.png" alt="Telegram" width="30px" /> @Stasik729
+</a>
+
+<a href="https://wa.me/380660841904">
+  <img src="./assets/whatsapp.svg" alt="WhatsApp" width="30px" /> +380 660841904
+</a>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
